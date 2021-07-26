@@ -1,0 +1,25 @@
+#history-map {
+    height: 60vh;
+    width: 70vw;
+    margin: 3vh 0;
+}
+
+body {
+    background-color: #202124;
+}
+
+h1 {
+    color: #ffffff;
+    margin: 1vh 0 1vh;
+    font-size: 64pt;
+}
+
+#back-button {
+    color: #dddddd;
+    margin: 2vh 0;
+    font-size: 28pt;
+}
+
+#container {
+    margin: 8vh 15vw;
+}
